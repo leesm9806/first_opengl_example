@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\USER\Documents\cg\first_opengl_example\build\dep_spdlog-prefix\src\dep_spdlog-build\CMakeFiles\b298cc45de2c38c8cb44b9c56af880ee\PACKAGE_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{256C7583-00EB-3F3D-94E3-D60AC36AA3CE}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

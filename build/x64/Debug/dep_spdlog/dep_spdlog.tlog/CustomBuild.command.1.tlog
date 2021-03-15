@@ -1,0 +1,142 @@
+^C:\USERS\USER\DOCUMENTS\CG\FIRST_OPENGL_EXAMPLE\BUILD\CMAKEFILES\07471AEDD54F069F49379A7BBD49BF33\DEP_SPDLOG-MKDIR.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -P C:/Users/USER/Documents/cg/first_opengl_example/build/dep_spdlog-prefix/tmp/dep_spdlog-mkdirs.cmake
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch C:/Users/USER/Documents/cg/first_opengl_example/build/dep_spdlog-prefix/src/dep_spdlog-stamp/Debug/dep_spdlog-mkdir
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\USER\DOCUMENTS\CG\FIRST_OPENGL_EXAMPLE\BUILD\CMAKEFILES\07471AEDD54F069F49379A7BBD49BF33\DEP_SPDLOG-DOWNLOAD.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -P C:/Users/USER/Documents/cg/first_opengl_example/build/dep_spdlog-prefix/tmp/dep_spdlog-download.cmake
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch C:/Users/USER/Documents/cg/first_opengl_example/build/dep_spdlog-prefix/src/dep_spdlog-stamp/Debug/dep_spdlog-download
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\USER\DOCUMENTS\CG\FIRST_OPENGL_EXAMPLE\BUILD\CMAKEFILES\07471AEDD54F069F49379A7BBD49BF33\DEP_SPDLOG-UPDATE.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -P C:/Users/USER/Documents/cg/first_opengl_example/build/dep_spdlog-prefix/tmp/dep_spdlog-update.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\USER\DOCUMENTS\CG\FIRST_OPENGL_EXAMPLE\BUILD\CMAKEFILES\07471AEDD54F069F49379A7BBD49BF33\DEP_SPDLOG-PATCH.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -P C:/Users/USER/Documents/cg/first_opengl_example/build/dep_spdlog-prefix/tmp/dep_spdlog-patch.cmake
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch C:/Users/USER/Documents/cg/first_opengl_example/build/dep_spdlog-prefix/src/dep_spdlog-stamp/Debug/dep_spdlog-patch
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\USER\DOCUMENTS\CG\FIRST_OPENGL_EXAMPLE\BUILD\CMAKEFILES\07471AEDD54F069F49379A7BBD49BF33\DEP_SPDLOG-CONFIGURE.RULE
+setlocal
+cd C:\Users\USER\Documents\cg\first_opengl_example\build\dep_spdlog-prefix\src\dep_spdlog-build
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -DCMAKE_INSTALL_PREFIX=C:/Users/USER/Documents/cg/first_opengl_example/build/install "-GVisual Studio 16 2019" -Ax64 -Thost=x64 "-DCMAKE_GENERATOR_INSTANCE:INTERNAL=C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools" C:/Users/USER/Documents/cg/first_opengl_example/build/dep_spdlog-prefix/src/dep_spdlog
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch C:/Users/USER/Documents/cg/first_opengl_example/build/dep_spdlog-prefix/src/dep_spdlog-stamp/Debug/dep_spdlog-configure
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\USER\DOCUMENTS\CG\FIRST_OPENGL_EXAMPLE\BUILD\CMAKEFILES\07471AEDD54F069F49379A7BBD49BF33\DEP_SPDLOG-BUILD.RULE
+setlocal
+cd C:\Users\USER\Documents\cg\first_opengl_example\build\dep_spdlog-prefix\src\dep_spdlog-build
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" --build . --config Debug
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch C:/Users/USER/Documents/cg/first_opengl_example/build/dep_spdlog-prefix/src/dep_spdlog-stamp/Debug/dep_spdlog-build
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\USER\DOCUMENTS\CG\FIRST_OPENGL_EXAMPLE\BUILD\CMAKEFILES\07471AEDD54F069F49379A7BBD49BF33\DEP_SPDLOG-INSTALL.RULE
+setlocal
+cd C:\Users\USER\Documents\cg\first_opengl_example\build\dep_spdlog-prefix\src\dep_spdlog-build
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" --build . --config Debug --target install
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch C:/Users/USER/Documents/cg/first_opengl_example/build/dep_spdlog-prefix/src/dep_spdlog-stamp/Debug/dep_spdlog-install
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\USER\DOCUMENTS\CG\FIRST_OPENGL_EXAMPLE\BUILD\CMAKEFILES\07471AEDD54F069F49379A7BBD49BF33\DEP_SPDLOG-TEST.RULE
+setlocal
+cd C:\Users\USER\Documents\cg\first_opengl_example\build\dep_spdlog-prefix\src\dep_spdlog-build
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch C:/Users/USER/Documents/cg/first_opengl_example/build/dep_spdlog-prefix/src/dep_spdlog-stamp/Debug/dep_spdlog-test
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\USER\DOCUMENTS\CG\FIRST_OPENGL_EXAMPLE\BUILD\CMAKEFILES\7D59FC893A37A6F776A5EDA6F0D6CACF\DEP_SPDLOG-COMPLETE.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E make_directory C:/Users/USER/Documents/cg/first_opengl_example/build/CMakeFiles/Debug
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch C:/Users/USER/Documents/cg/first_opengl_example/build/CMakeFiles/Debug/dep_spdlog-complete
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch C:/Users/USER/Documents/cg/first_opengl_example/build/dep_spdlog-prefix/src/dep_spdlog-stamp/Debug/dep_spdlog-done
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\USER\DOCUMENTS\CG\FIRST_OPENGL_EXAMPLE\BUILD\CMAKEFILES\0B3C499879B4BE75DEBE1B47D6EB2855\DEP_SPDLOG.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\USER\DOCUMENTS\CG\FIRST_OPENGL_EXAMPLE\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/USER/Documents/cg/first_opengl_example -BC:/Users/USER/Documents/cg/first_opengl_example/build --check-stamp-file C:/Users/USER/Documents/cg/first_opengl_example/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

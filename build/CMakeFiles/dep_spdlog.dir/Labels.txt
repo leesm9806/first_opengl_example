@@ -1,0 +1,14 @@
+# Target labels
+ dep_spdlog
+# Source files and their labels
+C:/Users/USER/Documents/cg/first_opengl_example/build/CMakeFiles/dep_spdlog
+C:/Users/USER/Documents/cg/first_opengl_example/build/CMakeFiles/0b3c499879b4be75debe1b47d6eb2855/dep_spdlog.rule
+C:/Users/USER/Documents/cg/first_opengl_example/build/CMakeFiles/7d59fc893a37a6f776a5eda6f0d6cacf/dep_spdlog-complete.rule
+C:/Users/USER/Documents/cg/first_opengl_example/build/CMakeFiles/07471aedd54f069f49379a7bbd49bf33/dep_spdlog-build.rule
+C:/Users/USER/Documents/cg/first_opengl_example/build/CMakeFiles/07471aedd54f069f49379a7bbd49bf33/dep_spdlog-configure.rule
+C:/Users/USER/Documents/cg/first_opengl_example/build/CMakeFiles/07471aedd54f069f49379a7bbd49bf33/dep_spdlog-download.rule
+C:/Users/USER/Documents/cg/first_opengl_example/build/CMakeFiles/07471aedd54f069f49379a7bbd49bf33/dep_spdlog-install.rule
+C:/Users/USER/Documents/cg/first_opengl_example/build/CMakeFiles/07471aedd54f069f49379a7bbd49bf33/dep_spdlog-mkdir.rule
+C:/Users/USER/Documents/cg/first_opengl_example/build/CMakeFiles/07471aedd54f069f49379a7bbd49bf33/dep_spdlog-patch.rule
+C:/Users/USER/Documents/cg/first_opengl_example/build/CMakeFiles/07471aedd54f069f49379a7bbd49bf33/dep_spdlog-test.rule
+C:/Users/USER/Documents/cg/first_opengl_example/build/CMakeFiles/07471aedd54f069f49379a7bbd49bf33/dep_spdlog-update.rule

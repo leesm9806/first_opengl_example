@@ -1,0 +1,34 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.20/Modules/CMakeCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.20/Modules/CMakeCXXInformation.cmake
+C:/Program Files/CMake/share/cmake-3.20/Modules/CMakeCommonLanguageInclude.cmake
+C:/Program Files/CMake/share/cmake-3.20/Modules/CMakeGenericSystem.cmake
+C:/Program Files/CMake/share/cmake-3.20/Modules/CMakeInitializeConfigs.cmake
+C:/Program Files/CMake/share/cmake-3.20/Modules/CMakeLanguageInformation.cmake
+C:/Program Files/CMake/share/cmake-3.20/Modules/CMakeRCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.20/Modules/CMakeSystemSpecificInformation.cmake
+C:/Program Files/CMake/share/cmake-3.20/Modules/CMakeSystemSpecificInitialize.cmake
+C:/Program Files/CMake/share/cmake-3.20/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+C:/Program Files/CMake/share/cmake-3.20/Modules/Compiler/MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.20/Modules/Compiler/MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.20/Modules/ExternalProject.cmake
+C:/Program Files/CMake/share/cmake-3.20/Modules/ExternalProject/RepositoryInfo.txt.in
+C:/Program Files/CMake/share/cmake-3.20/Modules/ExternalProject/cfgcmd.txt.in
+C:/Program Files/CMake/share/cmake-3.20/Modules/ExternalProject/gitclone.cmake.in
+C:/Program Files/CMake/share/cmake-3.20/Modules/ExternalProject/mkdirs.cmake.in
+C:/Program Files/CMake/share/cmake-3.20/Modules/FindGit.cmake
+C:/Program Files/CMake/share/cmake-3.20/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.20/Modules/FindPackageMessage.cmake
+C:/Program Files/CMake/share/cmake-3.20/Modules/Platform/Windows-MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.20/Modules/Platform/Windows-MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.20/Modules/Platform/Windows-MSVC.cmake
+C:/Program Files/CMake/share/cmake-3.20/Modules/Platform/Windows.cmake
+C:/Program Files/CMake/share/cmake-3.20/Modules/Platform/WindowsPaths.cmake
+C:/Users/USER/Documents/cg/first_opengl_example/CMakeLists.txt
+C:/Users/USER/Documents/cg/first_opengl_example/Dependency.cmake
+C:/Users/USER/Documents/cg/first_opengl_example/build/CMakeFiles/3.20.0-rc3/CMakeCCompiler.cmake
+C:/Users/USER/Documents/cg/first_opengl_example/build/CMakeFiles/3.20.0-rc3/CMakeCXXCompiler.cmake
+C:/Users/USER/Documents/cg/first_opengl_example/build/CMakeFiles/3.20.0-rc3/CMakeRCCompiler.cmake
+C:/Users/USER/Documents/cg/first_opengl_example/build/CMakeFiles/3.20.0-rc3/CMakeSystem.cmake
+C:/Users/USER/Documents/cg/first_opengl_example/build/dep_glfw-prefix/tmp/dep_glfw-mkdirs.cmake
+C:/Users/USER/Documents/cg/first_opengl_example/build/dep_spdlog-prefix/tmp/dep_spdlog-mkdirs.cmake

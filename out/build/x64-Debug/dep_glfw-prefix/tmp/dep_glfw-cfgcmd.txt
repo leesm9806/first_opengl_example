@@ -1,0 +1,1 @@
+cmd='C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/cmake.exe;-DCMAKE_INSTALL_PREFIX=C:/Users/USER/Documents/cg/first_opengl_example/out/build/x64-Debug/install;-DGLFW_BUILD_EXAMPLES=OFF;-DGLFW_BUILD_TESTS=OFF;-DGLFW_BUILD_DOCS=OFF;-GNinja;<SOURCE_DIR><SOURCE_SUBDIR>'

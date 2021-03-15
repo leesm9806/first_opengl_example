@@ -1,0 +1,10 @@
+^C:\USERS\USER\DOCUMENTS\CG\FIRST_OPENGL_EXAMPLE\BUILD\DEP_GLFW-PREFIX\SRC\DEP_GLFW-BUILD\CMAKEFILES\B66F6753D19E3DB642FE2F16C1CEE322\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/USER/Documents/cg/first_opengl_example/build/dep_glfw-prefix/src/dep_glfw -BC:/Users/USER/Documents/cg/first_opengl_example/build/dep_glfw-prefix/src/dep_glfw-build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/USER/Documents/cg/first_opengl_example/build/dep_glfw-prefix/src/dep_glfw-build/GLFW.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

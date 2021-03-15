@@ -1,0 +1,8 @@
+C:/Users/USER/Documents/cg/first_opengl_example/build/install/include/GLFW/glfw3.h
+C:/Users/USER/Documents/cg/first_opengl_example/build/install/include/GLFW/glfw3native.h
+C:/Users/USER/Documents/cg/first_opengl_example/build/install/lib/cmake/glfw3/glfw3Config.cmake
+C:/Users/USER/Documents/cg/first_opengl_example/build/install/lib/cmake/glfw3/glfw3ConfigVersion.cmake
+C:/Users/USER/Documents/cg/first_opengl_example/build/install/lib/cmake/glfw3/glfw3Targets.cmake
+C:/Users/USER/Documents/cg/first_opengl_example/build/install/lib/cmake/glfw3/glfw3Targets-debug.cmake
+C:/Users/USER/Documents/cg/first_opengl_example/build/install/lib/pkgconfig/glfw3.pc
+C:/Users/USER/Documents/cg/first_opengl_example/build/install/lib/glfw3.lib

@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/USER/Documents/cg/first_opengl_example/build/CMakeFiles/dep_glfw"
+		},
+		{
+			"file" : "C:/Users/USER/Documents/cg/first_opengl_example/build/CMakeFiles/0b3c499879b4be75debe1b47d6eb2855/dep_glfw.rule"
+		},
+		{
+			"file" : "C:/Users/USER/Documents/cg/first_opengl_example/build/CMakeFiles/7d59fc893a37a6f776a5eda6f0d6cacf/dep_glfw-complete.rule"
+		},
+		{
+			"file" : "C:/Users/USER/Documents/cg/first_opengl_example/build/CMakeFiles/bb8075e1ac6d0fdb661dd01eacdbb87b/dep_glfw-build.rule"
+		},
+		{
+			"file" : "C:/Users/USER/Documents/cg/first_opengl_example/build/CMakeFiles/bb8075e1ac6d0fdb661dd01eacdbb87b/dep_glfw-configure.rule"
+		},
+		{
+			"file" : "C:/Users/USER/Documents/cg/first_opengl_example/build/CMakeFiles/bb8075e1ac6d0fdb661dd01eacdbb87b/dep_glfw-download.rule"
+		},
+		{
+			"file" : "C:/Users/USER/Documents/cg/first_opengl_example/build/CMakeFiles/bb8075e1ac6d0fdb661dd01eacdbb87b/dep_glfw-install.rule"
+		},
+		{
+			"file" : "C:/Users/USER/Documents/cg/first_opengl_example/build/CMakeFiles/bb8075e1ac6d0fdb661dd01eacdbb87b/dep_glfw-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/USER/Documents/cg/first_opengl_example/build/CMakeFiles/bb8075e1ac6d0fdb661dd01eacdbb87b/dep_glfw-patch.rule"
+		},
+		{
+			"file" : "C:/Users/USER/Documents/cg/first_opengl_example/build/CMakeFiles/bb8075e1ac6d0fdb661dd01eacdbb87b/dep_glfw-test.rule"
+		},
+		{
+			"file" : "C:/Users/USER/Documents/cg/first_opengl_example/build/CMakeFiles/bb8075e1ac6d0fdb661dd01eacdbb87b/dep_glfw-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"dep_glfw"
+		],
+		"name" : "dep_glfw"
+	}
+}
